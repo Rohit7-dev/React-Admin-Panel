@@ -1,0 +1,55 @@
+.newProduct{
+    flex:4;
+    flex-direction: column;
+}
+
+.newProductLeft{
+    flex:1;
+    display: flex;
+    
+    
+}
+
+.newProductAdd{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;  
+    margin-left: 10px;
+}
+
+.newProductAdd>label{
+    font-size:22px;
+    color: #555;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.newProductAdd>input{
+    width: 450px;
+    
+    font-size: 16px;
+    border-bottom: 1px solid gray;   
+    border-radius: 2px;
+}
+
+
+.newProductSelect{
+    border: none;
+    font-size: 16px;
+}
+
+.newProductButton{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 12em;
+    height: 2em;
+    background-color: blue;
+    color:white;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+
+
