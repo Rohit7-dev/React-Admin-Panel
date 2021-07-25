@@ -1,6 +1,6 @@
 ## Admin panel UI React 
 
-UI for admin panel, can be easily linked to your database
+UI for admin panel, can be easily linked to your database, to change data, charts, etc please edit src/dummyData.js
 
 
 # Getting Started with Create React App
